@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opend the google page.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6947" started-at="2014-07-16T16:22:31Z" finished-at="2014-07-16T16:22:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6947" started-at="2014-07-16T16:22:31Z" finished-at="2014-07-16T16:22:38Z">
+      <class name="org.persistent.seleniumtests.AppTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:org.persistent.seleniumtests.AppTest@1b15692]" name="loginTest" duration-ms="6930" started-at="2014-07-16T21:52:31Z" finished-at="2014-07-16T21:52:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opend the google page.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- org.persistent.seleniumtests.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
